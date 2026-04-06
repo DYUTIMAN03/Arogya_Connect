@@ -15,7 +15,6 @@
 
 > **❗️ EVALUATORS PLEASE NOTE ❗️**
 > - **Deployment URL:** [YOUR_VERCEL_DEPLOYMENT_LINK_HERE]
-> - **Public GitHub Repository:** https://github.com/DYUTIMAN03/Arogya_Connect
 
 ---
 

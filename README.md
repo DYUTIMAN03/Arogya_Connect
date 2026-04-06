@@ -14,7 +14,7 @@
 ---
 
 > **❗️ EVALUATORS PLEASE NOTE ❗️**
-> - **Deployment URL:** [YOUR_VERCEL_DEPLOYMENT_LINK_HERE]
+> - **Deployment URL:** arogyaconnect-3ow4n5uzv-dyutiman03s-projects.vercel.app
 
 ---
 

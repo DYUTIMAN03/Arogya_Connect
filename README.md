@@ -188,4 +188,4 @@ const channel = supabase.channel('global_queue')
 Have fun managing your digital clinic and reaching maximum efficiency!
 
 
-Built with ❤️
+Built with ❤️ 
